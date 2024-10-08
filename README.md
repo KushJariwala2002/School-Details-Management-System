@@ -114,4 +114,4 @@ Feel free to contribute by opening issues or submitting pull requests. Please en
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license.
