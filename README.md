@@ -92,7 +92,7 @@ Here are some screenshots showcasing the functionality:
 
 ### Main Interface:
 
-![Main Interface](./images/main-interface.png)
+![Main Interface](./Main_Page.png)
 
 
 ---
