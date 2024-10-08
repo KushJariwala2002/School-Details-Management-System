@@ -94,15 +94,6 @@ Here are some screenshots showcasing the functionality:
 
 ![Main Interface](./images/main-interface.png)
 
-### Fetching School Details:
-
-![Fetching School Details](./images/fetch-school-details.png)
-
-### Update School Details:
-
-![Update School Details](./images/update-school-details.png)
-
-> **Note:** Screenshots are stored in the `images` folder within the project.
 
 ---
 
