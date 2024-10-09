@@ -47,10 +47,6 @@ A Python GUI application built using **Tkinter**, designed to manage school deta
     ```bash
     cd School-Details-Management
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 4. Run the application:
     ```bash
     python excel.py
@@ -94,15 +90,6 @@ Here are some screenshots showcasing the functionality:
 
 ![Main Interface](./Main_Page.png)
 
-
----
-
-## Logging
-
-This application integrates a logging feature to record:
-- User actions such as fetch, insert, update, and delete operations.
-- Errors and exceptions for debugging and user feedback.
-- Logging messages are saved into a `logfile.txt` in the project directory.
 
 ---
 
